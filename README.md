@@ -1,3 +1,4 @@
-# CV-HTML-Hadidan-016
-Tugas HTML Muhammad Hadidan Nurhaunan 
-5054241016
+# Deskripsi Singkat
+Tugas CV HTML Muhammad Hadidan Nurhaunan 
+
+NRP: 5054241016
